@@ -44,7 +44,7 @@ class ninja extends StatelessWidget {
             children: [
               Center(
                 child: Container(
-                  margin: EdgeInsets.only(top: 35),
+                  margin: EdgeInsets.only(top: 36),
                   child: Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     crossAxisAlignment: CrossAxisAlignment.end,
